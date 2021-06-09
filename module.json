@@ -1,0 +1,12 @@
+{
+    "author": "fruit",
+    "disableAutoUpdate": false,
+    "name": "no-meter",
+    "description": "Deletes dps meter files every time game opens to prevent it from opening",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/soler91/no-meter/master/"],
+    "options": {
+        "niceName": "No Meter No Meter",
+        "guiName": "No Meter No Meter"
+    }
+}
